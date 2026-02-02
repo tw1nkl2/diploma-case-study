@@ -318,6 +318,46 @@ Typical flow:
 3. apply migrations
 4. serve backend API + frontend app behind nginx
 
+
+## Demo
+
+- **Video walkthrough (UA):** https://youtu.be/fHjqRSJaSEE  
+  > Short demo in Ukrainian. Core features and flows are described in English in this README.
+
+---
+
+## Screenshots
+
+### Public pages
+- **Home page (hero section)** — platform positioning and main CTA  
+  ![Home](screens/01-home.png)
+
+- **Upcoming events/webinars** — event listing with tags and “Details” CTA  
+  ![Events](screens/02-events.png)
+
+- **Featured courses section** — course cards + categories  
+  ![Courses showcase](screens/03-courses-showcase.png)
+
+- **Courses catalog (filters/search/sorting)** — empty-state UI  
+  ![Catalog filters empty](screens/04-courses-filters-empty.png)
+
+### Support & community
+- **Contacts page** — support channels, office info, quick actions  
+  ![Contacts](screens/05-contacts.png)
+
+- **Contact form** — topic selection, email/phone, message, consent checkbox  
+  ![Contact form](screens/06-contact-form.png)
+
+- **Reviews page** — rating breakdown, filters, embedded media/story section  
+  ![Reviews](screens/07-reviews.png)
+
+### Authentication
+- **Login page UI**  
+  ![Login](screens/08-login.png)
+
+> Note: Authentication is not accessible in the current demo build (UI implemented; backend connection/configuration pending).
+
+
 ## My Responsibilities
 In this team diploma project, I contributed significantly to both engineering and design:
 
