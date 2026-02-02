@@ -318,50 +318,6 @@ Typical flow:
 3. apply migrations
 4. serve backend API + frontend app behind nginx
 
-
-## Screenshot
-- Course catalog (filters/search/sorting)  
-  ![Course catalog](screens/catalog.png)
-
-- Course details  
-  ![Course details](screens/course-details.png)
-
-### Auth
-- Registration step 1 (role)  
-  ![Registration step 1](screens/register-step-1.png)
-
-- Login / Reset password / Email verification  
-  ![Auth](screens/auth.png)
-
-### Student
-- Checkout  
-  ![Checkout](screens/checkout.png)
-
-- Learning page  
-  ![Learning](screens/learn.png)
-
-- Test flow + results  
-  ![Testing](screens/test.png)
-
-- Attempts history  
-  ![Attempts](screens/attempts.png)
-
-### Teacher
-- Teacher dashboard  
-  ![Teacher dashboard](screens/teacher-dashboard.png)
-
-- Course editor / Lesson editor / Test builder  
-  ![Teacher editor](screens/teacher-editor.png)
-
-- Student results  
-  ![Teacher results](screens/teacher-results.png)
-
-### Admin
-- Admin panel / moderation  
-  ![Admin panel](screens/admin.png)
-
----
-
 ## My Responsibilities
 In this team diploma project, I contributed significantly to both engineering and design:
 
