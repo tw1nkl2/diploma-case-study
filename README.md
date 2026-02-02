@@ -3,7 +3,7 @@
 > **BrainBoost** is an online learning platform (Genius Space–like) where **students** can browse and buy courses, learn lessons, pass tests, and leave reviews; **teachers** can create and manage courses/lessons/tests and analyze student results; **admins** can moderate and manage the platform.
 
 📍 **Project type:** Diploma / Academic team project  
-🧩 **My contribution:** ~50% of overall implementation, ~80% of UI/UX layout & design (Figma → UI)  
+🧩 **My contribution:** ~40% of overall implementation, ~80% of UI/UX layout & design.  
 🌍 **UI language:** Ukrainian (student version). Key flows and features are explained in English here.
 
 ---
@@ -318,14 +318,8 @@ Typical flow:
 3. apply migrations
 4. serve backend API + frontend app behind nginx
 
-> Public code for this diploma project may be unavailable. This case study focuses on architecture and implemented functionality.
 
----
-
-## Screenshots
-> Add your screenshots into `screens/` folder and link them here.
-
-### Public
+## Screenshot
 - Course catalog (filters/search/sorting)  
   ![Course catalog](screens/catalog.png)
 
@@ -411,12 +405,9 @@ If continuing the project, the next best improvements would be:
 
 ---
 
-## Credits
-Team diploma project created as part of **IT Step Academy** program.
-
 **Tools used:** Next.js, TypeScript, Django REST Framework, SQLite, Docker/Compose, Nginx, Ubuntu VPS, Git, Trello, Figma.
 
 If you want to contact me:
 - LinkedIn: <add-link>
 - GitHub: <add-link>
-- Email: <add-email>
+- Email: <4896998@gmail.com>
